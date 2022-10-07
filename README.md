@@ -43,6 +43,7 @@ Print the accuracy
 
 
  ### PROGRAM:
+ ```
  import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -112,7 +113,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 
-
+```
 
 ### OUTPUT:
 
